@@ -4,9 +4,9 @@
 int main()
 {
     // //bai1
-    // char name[100];
-    // char sinh[100];
-    // char numberphone[100];
+    // char name[50];
+    // char sinh[50];
+    // char numberphone[15];
 
     // printf("name: ");
     // fgets(name, sizeof(name), stdin);
